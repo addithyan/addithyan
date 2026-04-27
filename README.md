@@ -1,2 +1,2 @@
-<h1 align="center">ADITHYAN B</h1>
-<p align="center"><i>Learning new things!!</i></p>
+<h1>ADITHYAN B</h1>
+<p><i>Learning new things!!</i></p>
